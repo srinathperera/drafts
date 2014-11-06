@@ -1,0 +1,64 @@
+BODY { background-color:#9ecae1; font-size:16px; font-family: arial }
+
+H1 { color:white; font-size: 200% }
+H2 { color:white; font-size: 150%}
+H3 { color:white; font-size: 120%}
+
+P { margin: 12px; font-size:16px; font-family: arial }
+
+A { margin: 12px; font-size:16px; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+ }
+
+
+TABLE { margin: 12px; }
+TD { padding-right: 12px; }
+
+TABLE.footer { margin: 0px; width: 100%}
+TD.footer { padding-right: 0px; }
+
+#lpanel .heading {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  padding: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+
+
+#header {
+    background-color:#3182bd;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#9ecae1;
+    height:300px;
+    width:20%;
+    float:left;
+    padding:5px; 
+}
+#section {
+	background-color:#deebf7;
+    width:70%;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    background-color:#3182bd;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+
+#section2 {
+	background-color:#deebf7;
+    width:30%;
+    float:left;
+    padding:10px; 
+}
+
